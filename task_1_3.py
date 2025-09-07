@@ -1,5 +1,15 @@
-# Hier kommt Augabe 3 aus Block 1 hin
-# Du kannst den Code in diesem File verändern, um die Aufgabe zu lösen
-# Viel Erfolg!
+# String-Operationen
 
-print("Block 1 - Aufgabe 3")
+# Dein Name in Grossbuchstaben
+name = "Alice"
+name_gross = name.upper()
+
+print(f"Dein Name in Grossbuchstaben: {name_gross}")
+
+# Dein Name in Kleinbuchstaben
+name_klein = name.lower()
+print(f"Dein Name in Kleinbuchstaben: {name_klein}")
+
+# Dein Name rückwärts
+name_rueckwaerts = name[::-1]
+print(f"Dein Name rückwärts: {name_rueckwaerts}")
