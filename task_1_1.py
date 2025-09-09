@@ -1,5 +1,4 @@
 # Einfache Ein- und Ausgabe
-print("Hier löse ich Aufgabe 1")
 # Eingabe des Namens
 print("Wie heisst du?")
 name = input("Gib deinen Namen ein: ")
