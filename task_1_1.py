@@ -11,7 +11,7 @@ print("Lass uns zwei Zahlen addieren.")
 zahl1 = input("Gib die erste Zahl ein: ")
 zahl2 = input("Gib die zweite Zahl ein: ")
 
-# Umwanldung der Eingaben in Zahlen und Berechnung der Summe
+# Umwandlung der Eingaben in Zahlen und Berechnung der Summe
 summe = float(zahl1) + float(zahl2)  # Umwandlung
 
 # Ausgabe der Summe
